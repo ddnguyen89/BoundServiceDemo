@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoundServiceDemo</string>
+    <string name="time_tv">Large Text</string>
+    <string name="time_button">Get Time</string>
+</resources>
